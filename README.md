@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhila Chandrasekara</h1>
 
-<p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/gevindu_induwara?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
 
 - 🧑‍💻 I’m currently learning Selenium 
 - 👨🏻‍💻 Currently working as an QA Intern
