@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhila Chandrasekara</h1>
 
-👨🏻‍💻 I’m a final-year Information Technology undergraduate with strong academic and hands-on experience in software quality assurance. My work includes designing and executing test cases, automating UI tests with Selenium and TestNG, and performing API validation using Postman and REST Assured. I’ve contributed to several real-world projects—from mobile health monitoring systems to full-stack management platforms—gaining practical exposure to both frontend and backend testing. I’m passionate about learning, problem-solving, and contributing to high-quality software development. Feel free to explore my projects and connect! 
+👨🏻‍💻 I’m a final-year Information Technology undergraduate with strong academic and hands-on experience in software quality assurance. My work includes designing and executing test cases, automating UI tests with Selenium and TestNG, and performing API validation using Postman and REST Assured. I’ve contributed to several real-world projects—from mobile health monitoring systems to full-stack management platforms gaining practical exposure to both frontend and backend testing. I’m passionate about learning, problem-solving, and contributing to high-quality software development. Feel free to explore my projects and connect! 
 
 
 # 💻 Tech Stack:
